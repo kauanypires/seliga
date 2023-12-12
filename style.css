@@ -4,3 +4,14 @@ body{
     color: azure;
     
 }
+p{
+    color:darkorchid;
+    font-size: 20px;
+}
+#lista{
+    background-color: darkgray;
+    text-align: center;
+    font-size: 25px;
+    color: aliceblue;
+    border: dotted plum 4px;
+}
